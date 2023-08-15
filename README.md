@@ -1,1 +1,2 @@
-# Examples for C# features
+# C#
+Examples of C# features
